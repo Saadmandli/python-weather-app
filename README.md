@@ -1,2 +1,3 @@
 # Weather-app
 This Weather app would message you when there is possibility of rain, so that you can bring your umbrella ☔ with you
+There are some changes you need to make to make this file run: make your personal account on twilio and get your virtual number, then replace it from the file on "from" request and replace your personal number too.
